@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A news app that fetches news from various sources to keep you up with running events around you .
 
 ## Getting Started
 
